@@ -18,7 +18,7 @@ on first ssh login, it'll prompt to set new root password
 
 all the below applications can be installed through one click package (OCP) from this [thread at mobileread](https://www.mobileread.com/forums/showthread.php?t=314220)
 
-[OCP Backup](/ocp)
+[OCP Backup](https://github.com/m4tu4g/kobo-setup/releases/)
 
 script to install OCP can be found in this [post](https://www.mobileread.com/forums/showpost.php?p=3797096)
 
@@ -39,7 +39,7 @@ script to install OCP can be found in this [post](https://www.mobileread.com/for
 - Shorter Oxford English Dictionary
 - Oxford English Dictionary 2nd Edition
 
-SOED is enough for normal readers but both are kept in StarDict formats [here](/dictionaries), just unarchive zip inside `/mnt/onboard/.adds/koreader/data/dict`
+SOED is enough for normal readers but both are kept in StarDict formats [here](https://github.com/m4tu4g/kobo-setup/releases/), just unarchive zip inside `/mnt/onboard/.adds/koreader/data/dict`
 
 ### Plugins
 
