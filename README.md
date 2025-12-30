@@ -1,3 +1,5 @@
+![KLC](assets/klc.jpg)
+
 Best thing about Kobo? you already have root access and it's linux, just connect to PC!
 
 # SSH/SFTP
