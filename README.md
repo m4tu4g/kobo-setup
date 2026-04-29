@@ -49,3 +49,7 @@ SOED is enough for normal readers but both are kept in StarDict formats [here](h
 ## Plato
 
 [Plato is a document reader for Kobo's e-readers.](https://github.com/baskerville/plato)
+
+# Personal Bookshelf
+
+https://gowthamkalla.com/books
